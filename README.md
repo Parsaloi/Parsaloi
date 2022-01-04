@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parsaloi
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning programming concepts and Data Structure & Algorithms in Java and studying Clean Code by Robert C. Martin
+- 🌱 I’m currently learning programming concepts and Data Structure & Algorithms in Java and reading Clean Code by Robert C. Martin
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me: twitter.com/_parsaloi
 
