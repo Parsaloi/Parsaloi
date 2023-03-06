@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parsaloi
 - 👀 I’m love programming
-- 🌱 I’m currently learning programming concepts and Data Structure & Algorithms in Java and reading Clean Code by Robert C. Martin
-- 💞️ I’m looking to collaborate on Java projects
+- 🌱 I’m currently learning Cloud-native Computing and Design Patterns
+- 💞️ I’m looking to collaborate on Cloud-native, Artificial Intelligence projects
 - 📫 How to reach me: twitter.com/_parsaloi
 
 <!---
