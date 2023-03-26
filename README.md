@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parsaloi
-- 👀 I’m love problem solving and programming
+- 💞️ I love problem solving then programming
 - 🌱 I’m currently learning Cloud-native Computing and Design Patterns
-- 💞️ I’m looking to collaborate on Cloud-native, Artificial Intelligence projects
+- 👀 I’m looking to collaborate on Cloud-native, Artificial Intelligence projects
 - 📫 How to reach me: twitter.com/_parsaloi
 
 <!---
