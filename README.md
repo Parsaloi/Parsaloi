@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parsaloi
 - 💞️ I love problem solving then programming
-- 🌱 I’m currently learning Cloud-native Computing and Kubernetes Design Patterns
+- 🌱 I’m currently learning Cloud-native Computing and Kubernetes Patterns
 - 👀 I’m looking to collaborate on Cloud-native, Artificial Intelligence projects
 - 📫 How to reach me: parsaloi35@gmail.com
 
