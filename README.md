@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parsaloi
+- 👋 Hi, I’m Parsaloi
 - 💞️ I love problem solving while composing computer programs...
 - 🌱 I actively practice while learning to architect, develop, test Cloud-native Applications
 - 🏗️ I have fun building, running, testing Cloud-ready applications following Kubernetes Architectural Patterns and best practices
