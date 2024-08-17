@@ -2,7 +2,7 @@
 - 💞️ I love problem solving while composing computer programs...
 - 🌱 I actively practice while learning to architect, develop, test Cloud-native Applications
 - 🏗️ I have fun building, running, testing Cloud-ready applications following Kubernetes Architectural Patterns and best practices
-- 🎒 I dabble in infrastructure, and more fun stuff...like writing secure efficient code, functional programming
+- 🧑🏾‍🔧 I dabble in infrastructure, and more fun stuff...like writing secure efficient code, functional programming
 - 👀 I’m looking to collaborate on Cloud-native, Artificial Intelligence projects
 - 📫 How to reach me: parsaloi35@gmail.com
 
