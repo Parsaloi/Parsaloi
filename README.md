@@ -3,7 +3,7 @@
 - 🌱 I actively practice while learning to architect, develop, test various kinds of applications
 - 🏗️ Having fun building, testing operating Cloud-ready applications following Kubernetes Architectural Patterns & best practices
 - 🧑🏾‍🔧 I mostly dabble in IT infrastructure, find time to write & test secure efficient programs, learn functional programming
-- 👀 I’m looking to collaborate on Cloud-native, Artificial Intelligence projects
+- 👀 Looking to collaborate on Edge computing, Cloud-native, Artificial Intelligence projects
 - 📫 How to reach me: parsaloi35@gmail.com
 
 <!---
