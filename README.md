@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Parsaloi.
 - 🔭 I am working on CI/CD pipelines.
-- 🌱 I am learning Kubernetes, Cilium & Kotlin.
+- 🌱 I am learning Kubernetes, Cilium, Kotlin...
 - 🏗 I am building something in Kotlin.
 - 👀 I am looking to collaborate in delivering edge computing, cloud-native, artificial intelligence solutions.
 - 📫 [DEV](https://dev.to/parsaloian) [Mastadon](https://mastodon.social/@parsaloian) [Bluesky](https://bsky.app/profile/parsaloian.bsky.social)
